@@ -1,0 +1,3 @@
+class PuppysController < ApplicationController
+	
+end
